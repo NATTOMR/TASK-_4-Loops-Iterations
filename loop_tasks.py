@@ -109,3 +109,7 @@ for price in prices:
 print(f"Total bill amount: ${total:.2f}")
 
 print("\n--- End of Loop Demonstration Project ---")
+
+
+# add a comment
+print("Hello Git")
